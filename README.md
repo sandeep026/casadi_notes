@@ -1,0 +1,1 @@
+Notes on casadi usage
